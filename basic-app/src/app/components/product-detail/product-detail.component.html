@@ -1,0 +1,22 @@
+<div class="col-md-8 order-md-1">
+  <h4 class="mb-3">Add new product</h4>
+  <form class="needs-validation" novalidate>
+    <div class="mb-3">
+      <label for="productCode">Code</label>
+      <input type="text" class="form-control" id="productCode" name="productCode" placeholder="" [(ngModel)]="product.code" required>
+      <div class="invalid-feedback">
+        Valid product code is required.
+      </div>
+    </div>
+    <div class="mb-3">
+      <label for="description">Description</label>
+      <input type="text" class="form-control" id="description" name="description" placeholder="" [(ngModel)]="product.name" required>
+      <div class="invalid-feedback">
+        Valid Description is required.
+      </div>
+    </div>
+
+    <hr class="mb-4">
+    <button class="btn btn-primary btn-lg btn-block" type="submit" (click)="saveProduct()">Save</button>
+  </form>
+</div>

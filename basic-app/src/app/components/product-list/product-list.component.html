@@ -1,0 +1,24 @@
+<h3>Products...</h3>
+<p></p>
+
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Code</th>
+        <th scope="col">Description</th>
+        <th scope="col"></th>
+        <th scope="col"></th>
+        <th scope="col">Search <input type="text" [(ngModel)]="searchParams" (keyup)="search()"/></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of allProducts; let i = index">
+        <th scope="row">{{i + 1}}</th>
+        <td>{{product.code}}</td>
+        <td>{{product.name}}</td>
+        <td><a routerLink="/productdetail/{{product.id}}">edit</a></td>
+        <td (click)="removeProduct(product.id)">remove</td>
+      </tr>
+    </tbody>
+  </table>
