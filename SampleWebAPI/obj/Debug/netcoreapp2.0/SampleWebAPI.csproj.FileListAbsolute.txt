@@ -1,0 +1,10 @@
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\bin\Debug\netcoreapp2.0\SampleWebAPI.deps.json
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\bin\Debug\netcoreapp2.0\SampleWebAPI.runtimeconfig.json
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\bin\Debug\netcoreapp2.0\SampleWebAPI.runtimeconfig.dev.json
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\bin\Debug\netcoreapp2.0\SampleWebAPI.dll
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\bin\Debug\netcoreapp2.0\SampleWebAPI.pdb
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\obj\Debug\netcoreapp2.0\SampleWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\obj\Debug\netcoreapp2.0\SampleWebAPI.AssemblyInfoInputs.cache
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\obj\Debug\netcoreapp2.0\SampleWebAPI.AssemblyInfo.cs
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\obj\Debug\netcoreapp2.0\SampleWebAPI.dll
+C:\Users\nb170586\Documents\Learning\Web\angular2\usingVS\SampleWebAPI\obj\Debug\netcoreapp2.0\SampleWebAPI.pdb
