@@ -62,7 +62,6 @@ export class ProductService {
     );
   }
 
-
   private handleError<T>(operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
 

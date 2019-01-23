@@ -7,7 +7,8 @@ import { ProductDetailComponent } from './components/product-detail/product-deta
 import { ShoppingListComponent } from './components/shopping-list/shopping-list.component';
 import { ShoppingListFilterPipe } from './components/shopping-list/shopping-list-filter.pipe';
 
-import { InventoryService } from './services/inventory-service';
+import { InventoryService } from './services/inventory.service';
+
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
